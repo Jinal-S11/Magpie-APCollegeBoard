@@ -1,9 +1,9 @@
-# MAGPIE-AP-CollegeBoard
+# APCSA-MAGPIE-APCollegeBoard
 
-This repo contains my work from AP Computer Science A.
+This repo contains my work for Magpie Chatbot
 
 ## Magpie ChatBot Project
-A simple rule-based chatbot in Java that responds to user statements (e.g., detects words like "no", "why", "mom", "dad").
+A simple rule-based chatbot in Java that responds to user statements
 
 ### How to run
 1. Compile: javac ChatBot.java
