@@ -1,4 +1,4 @@
-# APCSA-MAGPIE-APCollegeBoard
+# MAGPIE-APCollegeBoard
 
 This repo contains my work for Magpie Chatbot
 
